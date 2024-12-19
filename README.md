@@ -44,3 +44,4 @@ Event browsing
 Ticket purchasing
 User authentication
 Secure payment integration
+Secure output.
